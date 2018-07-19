@@ -8,8 +8,8 @@
 
 
 <h3>upload from the local to the server
-<h4>scp -r /Users/raojun/Document/Sampling  jr2339@monsoon.hpc.nau.edu:/scarth/jr2339
+<h4>scp -r /Users/raojun/Document/Sampling       jr2339@monsoon.hpc.nau.edu:/scarth/jr2339
 
 <h3>upload from the server to local
-<h4>scp -r jr2339@monsoon.hpc.nau.edu:/common/contrib  ./
+<h4>scp -r jr2339@monsoon.hpc.nau.edu:/common/contrib   ./
 
