@@ -13,3 +13,4 @@
 <h3>upload from the server to local
 <h4>scp -r jr2339@monsoon.hpc.nau.edu:/common/contrib   ./
 
+<h4>mysqldump --host="mysql.cefns.nau.edu" --user="ID" --password="XXXXXXX" DATABASE_NAME > test.sql 
